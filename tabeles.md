@@ -2,6 +2,9 @@
 
 This is how You may create tabele in github, using `Markdowns` *(just check raw text)*
 
+![image](https://user-images.githubusercontent.com/103432222/228203570-925c997e-1919-4a64-b7f7-0448359fb637.png)
+
+
 | No   | type          |Parameter 1        |Parameter 2    |Parameter 3   |
 |-----:|---------------|-------------------|---------------|--------------|
 |     1|  S          | 10                  |150            |150           |
